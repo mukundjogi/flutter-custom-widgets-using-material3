@@ -1,6 +1,6 @@
 # flutter-custom-widgets-using-material3
 
-Add wonderful custom widgets using material3 that will boost you every day.
+Add wonderful custom widgets using material3 that will boost your and others flutter practices every day.
 
     
 ## Idea
